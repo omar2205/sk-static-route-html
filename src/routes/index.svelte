@@ -2,8 +2,8 @@
 <ol>
   <li>build this repo <code>npm run build</code></li>
   <li>host a static site <code>cd build && python -m http.server</code></li>
-  <li>visit /test1 (in a new tab) will <b>not</b> work</li>
-  <li>visit /test2 (in a new tab) will work</li>
+  <li>visit /test1.html (in a new tab) will <b>not</b> work</li>
+  <li>visit /test2.html (in a new tab) will work</li>
 </ol>
 
 <style>
