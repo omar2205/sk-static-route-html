@@ -1,7 +1,7 @@
 <nav>
-  <a href="/">Home</a>
-  <a href="/test1">Test #1</a>
-  <a href="/test2.html">Test #2</a>
+  <a href="/sk-static-route-html/">Home</a>
+  <a href="/sk-static-route-html/test1">Test #1</a>
+  <a href="/sk-static-route-html/test2.html">Test #2</a>
 </nav>
 <main>
   <slot />
